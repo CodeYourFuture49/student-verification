@@ -1,11 +1,11 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAPq388Cq3fYlV1Ejk0IEJ6SBHtClulgUs",
+  authDomain: "student-verification-8d01d.firebaseapp.com",
+  projectId: "student-verification-8d01d",
+  storageBucket: "student-verification-8d01d.firebasestorage.app",
+  messagingSenderId: "700888781038",
+  appId: "1:700888781038:web:382c8662782d10cf5663ff"
 };
 
 // Import Firebase Modules
